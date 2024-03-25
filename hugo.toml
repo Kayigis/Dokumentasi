@@ -1,4 +1,4 @@
-baseURL = 'https://kayigis.github.io/Microticks/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Petras Stuff'
 theme = 'github-style'
