@@ -13,7 +13,7 @@ Sebelum mengkonfigurasikan routing statik, maka saya ingin menjelaskan sedikit t
 
 Untuk memudahkan pemahaman tentang konsep routing statik, saya menggunakan topologi sederhana yang menggunakan dua router seperti terlihat pada gambar berikut
 
-![Topology1](../static/images/Topology1.png)
+![Topology1](/images/Topology1.png)
 
 Sebagai langkah awal, konfigurasikanlah IP Address pada setiap interface yang ada pada Router R1 dan R2
 
