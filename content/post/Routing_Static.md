@@ -13,7 +13,7 @@ Sebelum mengkonfigurasikan routing statik, maka saya ingin menjelaskan sedikit t
 
 Untuk memudahkan pemahaman tentang konsep routing statik, saya menggunakan topologi sederhana yang menggunakan dua router seperti terlihat pada gambar berikut
 
-![Topology1](/images/Topology1.png)
+![Topology1](../static/images/Topology1.png)
 
 Sebagai langkah awal, konfigurasikanlah IP Address pada setiap interface yang ada pada Router R1 dan R2
 
@@ -50,4 +50,4 @@ Pada saat Anda melakukan konfigurasi IP Address pada komputer 192.168.1.2, janga
 
 Makasih :D
 
-## Source = Mikrotik Kung Fu by Rendra Towidjojo
+## Source = Mikrotik Kung Fu Kitab 2 by Rendra Towidjojo
